@@ -1,6 +1,7 @@
 import MainContent from './components/MainContent';
 import logo from './assets/images/logo.png';
 
+// add some comments to skip ci
 function App() {
   return (
     <>
